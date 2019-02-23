@@ -10,9 +10,9 @@ $(document).ready(function() {
         method: "GET"
     })
 
-    .then(function(response)) {
-        
-    }
+    .then(function(response){
+        console.log(response);
+    })
 
     });
 

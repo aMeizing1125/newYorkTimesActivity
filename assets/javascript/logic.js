@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    $('').on('click', function() {
+    $('').on('click', function(e) {
 
     var queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q=election&"+
     "api-key=J6xTRbHXv6zT3uu4tkhQYY8lm4npRUGL";

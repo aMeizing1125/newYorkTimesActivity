@@ -1,0 +1,16 @@
+.banner {
+    background-color: rgb(3, 3, 51);
+    color: white;
+    padding: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.bannerIcon {
+    height: 45px;
+    width: 45px;
+    float: relative;
+}
+
